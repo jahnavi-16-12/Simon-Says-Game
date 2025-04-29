@@ -1,0 +1,88 @@
+body {
+    background: linear-gradient(135deg, #232526, #414345);
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background: rgba(30, 30, 30, 0.9);
+    border-radius: 20px;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.6);
+    padding: 4rem 3rem;
+    margin-top: 5vh;
+    text-align: center;
+    max-width: 800px; /* bigger width */
+    width: 90vw; /* responsive */
+    min-height: 80vh; /* bigger height */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.title {
+    font-size: 4rem; /* bigger font size */
+    letter-spacing: 3px;
+    margin-bottom: 2rem;
+    color: #00FFFF; /* vibrant cyan instead of yellow */
+    text-shadow: 0 0 15px #00FFFF, 0 0 30px #00CED1;
+}
+
+.rules-box {
+    background: rgba(255, 255, 255, 0.07);
+    border-radius: 12px;
+    padding: 2.5rem 3rem;
+    margin-bottom: 3rem;
+    box-shadow: 0 0 15px #00CED155;
+    flex-grow: 1;
+    overflow-y: auto;
+    width: 90%;                /* Makes the box take up most of the container's width */
+    max-width: 700px;          /* Limits width on very large screens */
+    min-height: 300px;   
+}
+
+.rules-box h2 {
+    color: #00CED1;
+    margin-bottom: 1rem;
+}
+
+.rules-box ul {
+    text-align: left;
+    margin: 0 auto;
+    padding-left: 1.5rem;
+    color: #e0f7fa;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+.start-btn {
+    background: linear-gradient(90deg, #0066FF, #3399FF);
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding: 1rem 3rem;
+    border: none;
+    border-radius: 35px;
+    cursor: pointer;
+    box-shadow: 0 4px 15px #3399FFAA;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    outline: none;
+    align-self: center;
+    user-select: none;
+}
+
+.start-btn:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 25px #3399FFDD;
+}
+
+footer {
+    margin-top: 2rem;
+    color: #aaa;
+    font-size: 0.95rem;
+}
