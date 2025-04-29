@@ -28,10 +28,11 @@ A fun memory game built with **HTML**, **CSS**, and **JavaScript**. In this game
 ## Screenshots
 
 ### Screenshot 1
-![Screenshot 1](Simonsay/ScreenShot%201.png)
+![Screenshot 1](Simonsay/ScreenShot1.png)
 
 ### Screenshot 2
-![Screenshot 2](Simonsay/ScreenShot%202.png)
+![Screenshot 2](Simonsay/ScreenShot2.png)
+
 
 
 
