@@ -24,6 +24,17 @@ A fun memory game built with **HTML**, **CSS**, and **JavaScript**. In this game
 - **CSS**: Styling and animations. 🎨
 - **JavaScript**: Game logic and user interaction. 💻
 
+
+## Screenshots
+
+### Screenshot 1
+![Screenshot 1](Simonsay/ScreenShot%201.png)
+
+### Screenshot 2
+![Screenshot 2](Simonsay/ScreenShot%202.png)
+
+
+
 ## Installation 🚀
 
 1. **Clone** this repository to your local machine:
