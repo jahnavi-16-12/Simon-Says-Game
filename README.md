@@ -28,10 +28,11 @@ A fun memory game built with **HTML**, **CSS**, and **JavaScript**. In this game
 ## Screenshots
 
 ### Screenshot 1
-![Screenshot 1](Simonsay/ScreenShot1.png)
+![Screenshot 1](https://github.com/jahnavi-16-12/Simon-Says-Game/blob/main/ScreenShot%201.png)
 
 ### Screenshot 2
-![Screenshot 2](Simonsay/ScreenShot2.png)
+![Screenshot 2](https://github.com/jahnavi-16-12/Simon-Says-Game/blob/main/ScreenShot%202.png)
+
 
 
 
